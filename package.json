@@ -1,0 +1,12 @@
+{
+  "name": "mybook",
+  "version": "1.0.0",
+  "description": "本书为Gitbook。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xzz",
+  "license": "ISC",
+  "dependencies": {}
+}
