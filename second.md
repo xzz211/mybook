@@ -8,6 +8,7 @@
 
 - NodeJS v4.0 及以上
 - 系统需要满足 Windows, Linux, Unix, or Mac OS X
+- fdddgsfgfg
 
 
 
