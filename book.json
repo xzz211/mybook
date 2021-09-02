@@ -1,1 +1,12 @@
-{}
+{
+    "author": "谢臻臻",
+    "description": "This is record sharing by xzz",
+    "plugins": [
+         "code", 
+         "popup", 
+         "search-pro", 
+         "back-to-top-button",
+         "splitter"
+     ],
+    "title": "PATEO"
+}
